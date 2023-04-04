@@ -53,6 +53,9 @@ a{
   line-height: 107px;
   text-transform: uppercase;
 }
+.benefits__content-box{
+  padding: 15px;
+}
 .header__subtitle{
   font-size: 36px;
   font-weight: 400;
